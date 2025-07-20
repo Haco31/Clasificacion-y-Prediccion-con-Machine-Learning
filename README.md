@@ -1,4 +1,4 @@
-# 🤖 Clasificacion-y-Prediccion-con-Machine-Learning
+# 🤖 Clasificación y Predicción con Machine Learning
 
 Este repositorio contiene proyectos educativos desarrollados durante mi formación en ciencia de datos. En este módulo me enfoqué en **clasificación supervisada**, técnicas de **validación de modelos**, **métricas de evaluación**, y una introducción a la **IA aumentada** aplicada a un caso real: la predicción de atrasos en vuelos.
 
